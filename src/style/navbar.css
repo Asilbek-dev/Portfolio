@@ -1,0 +1,73 @@
+#navbar {
+    background: #010101;
+    padding: 16px 0;
+}
+.navbar-brand {
+    width: 400px;
+}
+.nav-item {
+    margin-right: 30px;
+}
+#navbar .nav-link {
+    color: white !important;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+#navbar .nav-link:hover {
+    background-image: linear-gradient(#1c99fe 20.69%,#7644ff 50.19%,#fd4766 79.69%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.form-select {
+    width: 60px !important;
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.form-select option {
+    color: black;
+}
+
+@media screen and (max-width: 992px) {
+    .navbar-brand {
+        width: 300px;
+    }
+    .nav {
+        width: 280px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: block !important;
+        background: white;
+        text-align: center;
+        padding: 10px 0;
+        transform: translateX(-100%);
+        transition: all .8s ease-out;
+    }
+    .navbar_nav {
+        transform: translateX(0);
+    }
+    .nav-item {
+        margin: 0;
+    }
+    .nav-link {
+        color: black !important;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .fa {
+        color: white;
+        width: 16px;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    #navbar {
+        padding: 16px 10px;
+    }
+    .navbar-brand {
+        width: 150px;
+    }
+}

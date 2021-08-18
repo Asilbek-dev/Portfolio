@@ -1,0 +1,46 @@
+{
+    "Navbar": {
+        "1": "Bosh sahifa",
+        "2": "Xizmatlar",
+        "3": "Men haqimda",
+        "4": "Bog'lanish"
+    },
+    "Home": {
+        "1": "Mening portfelimga xush kelibsiz",
+        "2": "Mening ismim Asilbek",
+        "3": "Men Toshkent axborot texnologiyalari universitetining talabasiman"
+    },
+    "Services": {
+        "1": "Mening xizmatlarim",
+        "2": "Oziq-ovqat", 
+        "3": "Reast API",
+        "4": "Misol",
+        "5": "Lorem ipsum dolor, o'tirganlar bilan ishlashga e'tibor bering, chunki ular vaqtincha o'zgarib turadi, chunki siz me'morlikdan tashqari, fuga ipsa repellat modasini o'zgartirasiz."
+    },
+    "About": {
+        "1": "Men haqimda",
+        "2": "Tug'ilgan joyi: ",
+        "3": "25 oktyabr 2000 yil Farg'ona viloyati, Dang'ara tumani, Abdusamad qishlog'i ",
+        "4": "Millat: ",
+        "5": "o'zbek",
+        "6": "Ma'lumot: ",
+        "7": "tugallanmagan oliy",
+        "8": "CV-ni yuklab oling",
+        "9": "Texnologiyalar: ",
+        "10": "HTML,CSS,SASS,Bootstrap,JavaScript,Reactjs,Reast API,Git/Github"
+    },
+    "Contact": {
+        "1": "Bog'lanish",
+        "2": "Ismingiz: ",
+        "3": "Sizning elektron manzilingiz: ",
+        "4": "Sizning telefon raqamingiz: ",
+        "5": "Izohlar: ",
+        "6": "Xabar yuboring",
+        "7": "Manzil: ",
+        "8": "Farg'ona v. Dang'ara t. Abdusamad q. 3-uy",
+        "9": "Telefon raqami: ",
+        "10": "+99897 210-03-25",
+        "11": "Elektron pochta: ",
+        "12": "ergashevasilbek41@gmail.com"
+    }
+}

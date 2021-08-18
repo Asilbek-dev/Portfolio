@@ -1,0 +1,46 @@
+{
+    "Navbar": {
+        "1": "Home",
+        "2": "Services",
+        "3": "About",
+        "4": "Contact"
+    },
+    "Home": {
+        "1": "Welcome to my portfolio",
+        "2": "My name is Asilbek",
+        "3": "I am a student at Tashkent University of Information Technologies"
+    },
+    "Services": {
+        "1": "My services",
+        "2": "Foods", 
+        "3": "Reast API",
+        "4": "Example",
+        "5": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Tenetur hic tempora quos enim modi porro fuga ipsa repellat excepturi architecto."
+    },
+    "About": {
+        "1": "About",
+        "2": "Place of Birth: ",
+        "3": "25-October in 2000 Farg'ona region, Dang'ara district, Abdusamad village ",
+        "4": "Nation: ",
+        "5": "uzbek",
+        "6": "Reference: ",
+        "7": "unfinished higher",
+        "8": "Download CV",
+        "9": "Technology: ",
+        "10": "HTML,CSS,SASS,Bootstrap,JavaScript,Reactjs,Reast API,Git/Github"
+    },
+    "Contact": {
+        "1": "Contact",
+        "2": "Your name: ",
+        "3": "Your email: ",
+        "4": "Your phone number: ",
+        "5": "Comments: ",
+        "6": "Send message",
+        "7": "Address: ",
+        "8": "Farg'ona r. Dang'ara d. Abdusamad v. 3-home",
+        "9": "Phone number: ",
+        "10": "+99897 210-03-25",
+        "11": "Email: ",
+        "12": "ergashevasilbek41@gmail.com"
+    }
+}

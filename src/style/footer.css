@@ -1,0 +1,110 @@
+#footer {
+    background-color: rgb(0, 0, 0)!important;
+    margin-bottom: -30px;
+}
+.footer{
+    margin-bottom: -20px;
+    padding: 10px 20px;
+    justify-content: space-between;
+    overflow: hidden;
+}
+.footer p{
+    color : #fff;
+    font-size: 16px;
+}
+.footer p span{
+    color : #fff;
+    font-size: 17px;
+    font-weight: bold;
+}
+.footer_first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mapouter p{
+    color : #fff;
+    font-size: 15px;
+    margin-right: 30px;
+}
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:800px;
+    margin-right: -220px;
+}
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    height:150px;
+    width:150px;
+}
+.messanger_footer{
+    display: flex;
+    padding: 20px!important;
+    justify-content: center;
+}
+.messanger_footer a{
+    color: #ffffff;
+    width: 100px!important;
+    margin-right: 0 !important;
+    padding: 5px !important;
+    transition: all 1s linear;
+}
+.messanger_footer a img:hover{
+    transform: scale(1.2);
+}
+.messanger_footer a svg:hover{
+    transform:scale(1.2);
+}
+svg{
+    margin-bottom: 16px!important;
+}
+.messanger_footer a img{
+    width: 30px!important;
+    height: 30px!important;
+    border-radius: 50% !important;
+}
+
+@media (max-width: 768px) {
+    .footer p{
+        font-size: 9px!important;
+        margin: 0;
+    }
+    .footer p span{
+        font-size: 12px!important;
+    }
+    .mapouter p{
+        font-size: 10px;
+    }
+    .mapouter{
+        width:100% !important;
+        margin: 0 !important;
+    }
+    .footer_first{
+        width: 100% !important;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .messanger_footer{
+        margin-left: 10px;
+    }
+    .messanger_footer a{
+        width: 50px!important;
+    }
+    .messanger_footer a img{
+        width: 30px!important;
+        height: 30px!important;
+    }
+    .gmap_canvas {
+        margin-top: 10px;
+        width: 100% !important;
+    }
+}
+
+@media (max-width: 540px) {
+    .footer_first{
+        display: block;
+    }
+    
+}
