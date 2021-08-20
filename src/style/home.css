@@ -15,11 +15,11 @@
 }
 .home_text{
     text-align: center !important;
-    z-index: 999 !important;
+    z-index: 99 !important;
     margin-top: 50px !important;
     width: 100% !important;
 }
-.home_text img {
+.home_text > img {
     width: 300px !important;
     height: 300px !important;
 }
